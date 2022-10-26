@@ -8,8 +8,9 @@ let students = [
     {name: 'Boris', cohort: 'June'}
 ];
 for (i=0;i<students.length;i++){
-    console.log(students[i]);
+    console.log("name:" + students[i].name + ", cohort:" + students[i].cohort);
 }
+
 
 
 //Desafio 2

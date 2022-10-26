@@ -1,5 +1,5 @@
 //Desafio 1 
-/*let students = [
+let students = [
     {name: 'Remy', cohort: 'Jan'},
     {name: 'Genevieve', cohort: 'March'},
     {name: 'Chuck', cohort: 'Jan'},
@@ -10,7 +10,7 @@
 for (i=0;i<students.length;i++){
     console.log(students[i]);
 }
-*/
+
 
 //Desafio 2
 let users = {
